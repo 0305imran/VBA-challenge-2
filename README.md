@@ -17,7 +17,7 @@
 ### The result
 
 ### GIF
-![GIF)(Images/ShowGif.GIF)
+![](Images/ShowGif.GIF)
 
 ### Image
 ![Image](Images/capture1.JPG)
