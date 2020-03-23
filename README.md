@@ -16,8 +16,8 @@
 
 ### The result
 
-### MP4
-![MP4)(TickerMov.mp4)
+### GIF
+![GIF)(Images/ShowGif.GIF)
 
 ### Image
 ![Image](Images/capture1.JPG)
