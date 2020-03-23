@@ -15,5 +15,5 @@
 * Used conditional formatting to highlight positive change in green and negative change in red using VBA color index. <http://dmcritchie.mvps.org/excel/colors.htm>.
 
 ### The result
-* Simple challenge
-![](/capture1.jpg)
+
+![Simple challenge](VBAStocks/images/capture1.jpg)
