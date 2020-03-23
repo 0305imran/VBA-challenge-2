@@ -16,4 +16,4 @@
 
 ### The result
 
-![Simple challenge](Images/capture1.jpg)
+![Simple challenge](Images/capture1.JPG)
